@@ -2,3 +2,8 @@ python-dotenv
 openai
 anthropic
 google-genai
+dotenv-python
+gradio
+PyPDF2
+pdfplumber
+pydantic
