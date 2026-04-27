@@ -6,3 +6,5 @@ gradio
 PyPDF2
 pdfplumber
 pydantic
+openai-agents
+sendgrid
